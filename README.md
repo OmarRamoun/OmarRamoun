@@ -10,8 +10,10 @@
 [![Website](https://img.shields.io/badge/ramoun.me--yellow?style=social&logo=Firefox)](https://www.ramoun.me/)
 [![Linkedin Badge](https://img.shields.io/badge/-Ramoun-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ramoun)](https://www.linkedin.com/in/ramoun/) [![Twitter Badge](https://img.shields.io/badge/-@ramoun16-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ramoun16)](https://twitter.com/ramoun16) [![Medium Badge](https://img.shields.io/badge/-@ramoun-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ramoun)](https://medium.com/@ramoun) [![GitHub followers](https://img.shields.io/github/followers/MrRamoun?label=Follow%20on%20Github&style=social)](https://github.com/MrRamoun/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Ramoun-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:omartarekramoun@gmail.com)](mailto:omartarekramoun@gmail.com)
 
-<p align="center" style="background-size:cover; position:relative; padding: 20px; font-size: 20px">
-👋 Pragmatic Problem-Solver with an analytical and driven mindset with adequate <b><i>experience in <span style="color:#00D8FF;">React</span>, <span style="color:#41B883;"> C++</span>, <span style="color:#FDB40D;">Java</span>,  & <span style="color:#3981BF;"> Django</span></i></b> and a solid background in <b><i>Software Engineering</i></b>. Dedicated to achieving development objectives according to tight schedules while producing impeccable code with no compromises with regard to <b><i>code quality</i></b> <b>;</b>
+<p align="center">
+
+![](images/ssss.png)
+
 </p>
 
 ## 💻 Tech Stack
@@ -44,13 +46,12 @@
 
 <p align="center"><a href="https://github.com/MrRamoun"><img src="https://github-readme-stats.vercel.app/api?username=MrRamoun&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;count_private=true" alt="stats of github"></a></p>
 
-
 ## Interests
 
-* Interested in C++ & Python. Recent focus on full stack.
-* Currently learning Microprocessor Design & Programming.
-* Reading more about Computer History, History of C, Dennis Ritchie.
-* With 8+ years of computer science and technology education and 6 months of development working experience.
-* Encouraging people for open source collaborations.
+- Interested in C++ & Python. Recent focus on full stack.
+- Currently learning Microprocessor Design & Programming.
+- Reading more about Computer History, History of C, Dennis Ritchie.
+- With 8+ years of computer science and technology education and 6 months of development working experience.
+- Encouraging people for open source collaborations.
 
-----
+---
