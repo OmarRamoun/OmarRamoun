@@ -55,3 +55,9 @@
 - Encouraging people for open source collaborations.
 
 ---
+
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7EckyBrazzz%7D/count.svg" alt="visitor badge"/></p>
+
+---
