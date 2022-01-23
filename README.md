@@ -58,6 +58,6 @@
 
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7EckyBrazzz%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7MrRamoun%7D/count.svg" alt="visitor badge"/></p>
 
 ---
