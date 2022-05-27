@@ -19,7 +19,7 @@
 
 ## ✨ Stats
 
-<p align="center"><a href="https://github.com/MrRamoun"><img src="https://github-readme-stats.vercel.app/api?username=MrRamoun&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;count_private=true" alt="stats of github"></a></p>
+<p align="center"><a href="https://github.com/omarramoun"><img src="https://github-readme-stats.vercel.app/api?username=omarramoun&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;count_private=true" alt="stats of github"></a></p>
 
 ## Interests
 
