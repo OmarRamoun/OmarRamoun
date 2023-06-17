@@ -23,7 +23,6 @@
 
 ## Interests
 
-- Interested in C++ & Python. Recent focus on full stack.
 - Currently learning Microprocessor Design & Programming.
 - Reading more about Computer History, History of C, Dennis Ritchie.
 - With 8+ years of computer science and technology education.
